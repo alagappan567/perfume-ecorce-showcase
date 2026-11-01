@@ -11,28 +11,26 @@ A scroll-driven perfume website concept (UI study, all commerce is dummy). This 
 **Home — bottle carousel over the star seal**
 
 ![Home carousel](screenshots/01-home-carousel.png)
-![Home carousel, bottle turning](screenshots/02-home-carousel-spin.png)
 
-**Product page — still life hero, then scroll**
+**Product page — still life hero**
 
-![Product hero](screenshots/03-product-hero.png)
-![Product hero on scroll](screenshots/04-product-hero-scroll.png)
+![Product hero](screenshots/02-product-hero.png)
 
 **Other extraits — full-width draggable arc**
 
-![Other extraits](screenshots/05-other-extraits.png)
+![Other extraits](screenshots/03-other-extraits.png)
 
 **Into the scent — 3D word tunnel**
 
-![Tunnel](screenshots/06-tunnel.png)
+![Tunnel](screenshots/04-tunnel.png)
 
 **The composition — notes orbiting the bottle**
 
-![Composition](screenshots/07-composition.png)
+![Composition](screenshots/05-composition.png)
 
 **Worn & wanted — campaign photo arc**
 
-![Worn and wanted](screenshots/08-worn-and-wanted.png)
+![Worn and wanted](screenshots/06-worn-and-wanted.png)
 
 ## Read next
 
