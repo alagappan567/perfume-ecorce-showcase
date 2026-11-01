@@ -8,12 +8,31 @@ A scroll-driven perfume website concept (UI study, all commerce is dummy). This 
 
 ## Screenshots
 
-| | |
-|---|---|
-| ![Intro](screenshots/01-intro-or-home.png) **Intro** — hold to spray a mist that blooms into the site | ![Home](screenshots/02-home-carousel.png) **Home** — bottle carousel on a diagonal arc |
-| ![Hero](screenshots/03-product-hero.png) **Product hero** — still life on a travertine plinth | ![Story](screenshots/04-scroll-1400.png) **Story** — scroll-driven text |
-| ![Mid](screenshots/05-scroll-3200.png) **Showcase turn** | ![Tunnel](screenshots/06-scroll-5200.png) **Word tunnel** — "Into the scent" |
-| ![Later](screenshots/07-scroll-8000.png) **Composition / campaign** | ![Footer](screenshots/09-scroll-14000.png) **Footer & contact** |
+**Home — bottle carousel over the star seal**
+
+![Home carousel](screenshots/01-home-carousel.png)
+![Home carousel, bottle turning](screenshots/02-home-carousel-spin.png)
+
+**Product page — still life hero, then scroll**
+
+![Product hero](screenshots/03-product-hero.png)
+![Product hero on scroll](screenshots/04-product-hero-scroll.png)
+
+**Other extraits — full-width draggable arc**
+
+![Other extraits](screenshots/05-other-extraits.png)
+
+**Into the scent — 3D word tunnel**
+
+![Tunnel](screenshots/06-tunnel.png)
+
+**The composition — notes orbiting the bottle**
+
+![Composition](screenshots/07-composition.png)
+
+**Worn & wanted — campaign photo arc**
+
+![Worn and wanted](screenshots/08-worn-and-wanted.png)
 
 ## Read next
 
